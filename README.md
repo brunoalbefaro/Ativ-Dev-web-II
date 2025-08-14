@@ -5,7 +5,7 @@
 Beatriz Prates\
 Bruno Albefaro\
 Gabriella Maris\
-Jennifer Souza\
+Jennifer Souza
 
 A atividade é um praticamente um quiz que irá aparecer uma sugestão de comida conforme as suas respostas e seus gostos.\
 Se todas as suas respostas for "Não sei" o programa irá retornar uma comida aleatória.\
